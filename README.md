@@ -36,6 +36,6 @@
 6- math
 
 ## Demo Link
-<a href="https://drive.google.com/file/d/1tjqYk6h-8ie0-Fl3x0sFh6ngJTxzaJEP/edit"><img src="https://drive.google.com/file/d/1tjqYk6h-8ie0-Fl3x0sFh6ngJTxzaJEP/edit" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
+https://drive.google.com/file/d/1tjqYk6h-8ie0-Fl3x0sFh6ngJTxzaJEP/view?usp=sharing
 
